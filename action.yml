@@ -3,7 +3,7 @@ description: 'AI-based PR Reviewer & Summarizer with Chat Capabilities'
 branding:
   icon: 'git-merge'
   color: 'orange'
-author: 'tmokmss'
+author: 'syamcode'
 inputs:
   debug:
     required: false
